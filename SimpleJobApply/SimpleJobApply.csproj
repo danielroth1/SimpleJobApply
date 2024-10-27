@@ -17,4 +17,10 @@
     <PackageReference Include="Extended.Wpf.Toolkit" Version="4.6.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="example-full-stack.sja">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
