@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimpleJobApply": {
+      "commandName": "Project",
+      "commandLineArgs": "$(ProjectDir)\\example-full-stack.sja"
+    }
+  }
+}
