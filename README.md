@@ -23,7 +23,7 @@ To see an example on what a refined paragraphs could look like, open example-ful
 <img width="1172" alt="Simple Job Apply - example-full-stack sja" src="https://github.com/user-attachments/assets/5a754955-03b9-4e88-8e6d-50db143d88e0">
 
 ## CC Attribution Icon
-Creator: IconMarket
-License: https://creativecommons.org/licenses/by/4.0/
-Icon: https://icon-icons.com/icon/profession-professions-job-suit-businessman-jobs/255749
-Icon pack: https://icon-icons.com/pack/Avatar/4019
+Creator: IconMarket  
+License: https://creativecommons.org/licenses/by/4.0/  
+Icon: https://icon-icons.com/icon/profession-professions-job-suit-businessman-jobs/255749  
+Icon pack: https://icon-icons.com/pack/Avatar/4019  
