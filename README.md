@@ -20,7 +20,7 @@ To see an example on what a refined paragraphs could look like, open example-ful
 - Generate a starting sentence with ChatGPT (e.g. with the prompt "Generate starting sentence for cover letter with following points: - ...)
 - If there is a name of contact person, don't forget to put that name in instead of the usual "Dear Sir or Madam,"
 
-<img width="1172" alt="Simple Job Apply - example-full-stack sja" src="https://github.com/user-attachments/assets/5a754955-03b9-4e88-8e6d-50db143d88e0">
+<img width="1221" alt="Simple Job Apply - example-full-stack" src="https://github.com/user-attachments/assets/15c08175-0f20-4e57-b362-4e93eae0af29">
 
 ## CC Attribution Icon
 Creator: IconMarket  
