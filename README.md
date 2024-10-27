@@ -1,7 +1,7 @@
 # SimpleJobApply
-Tool that simplifies the generation of job applications. A pasted job ad is scanned for keywords and a corresponding cover letter is automatically generated based on previously specified keyword / paragraph combinations.
+Tool that simplifies the generation of job applications by scanning for keywords and combining corresponding paragraphs.
 
-This tool can automate parts of the process of generating a cover letter.
+This tool can automate parts of the process of generating a cover letter. A pasted job ad is scanned for keywords and a corresponding cover letter is automatically generated based on previously specified keyword / paragraph combinations. 
 
 ## Getting started
 - Start the SimpleJobApply by running SimpleJobApply.exe
